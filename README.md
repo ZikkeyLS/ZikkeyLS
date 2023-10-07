@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Crazy Bear 3D](https://github.com/ZikkeyLS/CrazyBear)
 
-- 🌱 I’m currently learning **C++ - SDL 2 (GL, DX, VULKAN) and Yandex.Games SDK.**
+- 🌱 I’m currently learning **C++ SDL 2 (GL, DX, VULKAN) and Yandex.Games SDK.**
 
 - 💬 Ask me about **Multiplayer (TCP, UDP, RUDP, Frameworks) and refactoring**
 
