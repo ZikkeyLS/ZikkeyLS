@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zikkey (Sergey Polyanskiy)</h1>
 <h3 align="center">C#(Unity) and C++ developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zikkeyls&label=Profile%20views&color=0e75b6&style=flat" alt="zikkeyls" /> </p>
-
 - 🔭 I’m currently working on [Crazy Bear 3D game](https://github.com/ZikkeyLS/CrazyBear)
 
 - 🌱 I’m currently learning **C++ - SDL 2 (GL, DX, VULKAN) and Yandex.Games SDK.**
