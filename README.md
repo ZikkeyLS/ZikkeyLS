@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zikkey (Sergey Polyanskiy)</h1>
-<h3 align="center">C#(Unity) and C++ developer</h3>
+<h3 align="center">C++ and C#(Unity) developer</h3>
 
 - 🔭 I’m currently working on [BEngine](https://github.com/ZikkeyLS/BEngine)
 
